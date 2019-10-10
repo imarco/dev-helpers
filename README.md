@@ -1,2 +1,6 @@
-# dev-helpers
-Useful libraries for development
+# Development Helper Libraries collention
+> Useful libraries for development
+
+## dev flow
+### cz-conventional-changelog
+https://github.com/commitizen/cz-conventional-changelog
